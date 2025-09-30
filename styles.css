@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+#space {
+    height: 99vh;
+    width: 99vh;
+    margin: auto;
+    border: 1px solid black;
+}
